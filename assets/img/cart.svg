@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="19" viewBox="0 0 30 19">
+  <g id="cart" transform="translate(-43.5 -334)">
+    <path id="Path_9" data-name="Path 9" d="M-3.286,0H21L18.752,9.264.691,10.424Z" transform="translate(52 335)" fill="#fff"/>
+    <line id="Line_17" data-name="Line 17" x2="30" transform="translate(43.5 334.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_18" data-name="Line 18" x2="17" transform="translate(52.5 346.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="2.5" cy="2.5" r="2.5" transform="translate(52 348)" fill="#fff"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="2.5" cy="2.5" r="2.5" transform="translate(65 348)" fill="#fff"/>
+  </g>
+</svg>

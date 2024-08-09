@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="logout" transform="translate(-64 -678)">
+    <path id="Path_8" data-name="Path 8" d="M0,0,8.141,1.139V18.346L0,19Z" transform="translate(64 679)" fill="#fff"/>
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(64 678)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+    <path id="Polygon_13" data-name="Polygon 13" d="M2,0,4,3H0Z" transform="matrix(0.017, 1, -1, 0.017, 76.465, 685.991)" fill="#fff"/>
+  </g>
+</svg>
